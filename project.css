@@ -1,0 +1,55 @@
+.style {
+    display: flex;  
+    cursor: pointer;
+    justify-content: center;
+}
+.list-inline {
+    display: flex;
+}
+.logoShop {
+    width: 150px;
+    height: auto;
+}
+.list-inline-left {
+    padding: 40px 25px 40px 0px;
+    margin: 0px 8px 0px 0px;
+    font-size: 20px; 
+    font-family:Arial, Helvetica, sans-serif;
+    color: #555;
+}
+.list-inline-right {
+    padding: 40px 25px 40px 0px;
+    margin: 0px 8px 0px 0px;
+    font-size: 20px; 
+    font-family:Arial, Helvetica, sans-serif;
+    color: #555;
+}
+
+.backGround1 {
+    width: 1228px;
+    height: 770px;
+}
+
+#imgContact {
+    display: flex;
+}
+
+.imageFB {
+    width: 30px;
+    height: auto;
+}
+.imageIns {
+    width: 30px;
+    height: auto;
+}
+.imageYtb {
+    width: 30px;
+    height: auto;
+}
+.btt{
+    padding: 0px;
+}
+.ipt {
+    padding: 0px;
+    
+}
